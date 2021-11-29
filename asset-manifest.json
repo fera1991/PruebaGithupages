@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PruebaGithupages/static/css/main.8303484b.chunk.css",
+    "main.js": "/PruebaGithupages/static/js/main.ff96de4f.chunk.js",
+    "main.js.map": "/PruebaGithupages/static/js/main.ff96de4f.chunk.js.map",
+    "runtime-main.js": "/PruebaGithupages/static/js/runtime-main.39bcfd57.js",
+    "runtime-main.js.map": "/PruebaGithupages/static/js/runtime-main.39bcfd57.js.map",
+    "static/js/2.d29f6917.chunk.js": "/PruebaGithupages/static/js/2.d29f6917.chunk.js",
+    "static/js/2.d29f6917.chunk.js.map": "/PruebaGithupages/static/js/2.d29f6917.chunk.js.map",
+    "static/js/3.5a1854f1.chunk.js": "/PruebaGithupages/static/js/3.5a1854f1.chunk.js",
+    "static/js/3.5a1854f1.chunk.js.map": "/PruebaGithupages/static/js/3.5a1854f1.chunk.js.map",
+    "index.html": "/PruebaGithupages/index.html",
+    "static/css/main.8303484b.chunk.css.map": "/PruebaGithupages/static/css/main.8303484b.chunk.css.map",
+    "static/js/2.d29f6917.chunk.js.LICENSE.txt": "/PruebaGithupages/static/js/2.d29f6917.chunk.js.LICENSE.txt",
+    "static/media/DailyPost_logo.66c1d5be.png": "/PruebaGithupages/static/media/DailyPost_logo.66c1d5be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39bcfd57.js",
+    "static/js/2.d29f6917.chunk.js",
+    "static/css/main.8303484b.chunk.css",
+    "static/js/main.ff96de4f.chunk.js"
+  ]
+}
